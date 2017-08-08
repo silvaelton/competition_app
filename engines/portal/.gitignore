@@ -1,0 +1,7 @@
+.bundle/
+log/*.log
+pkg/
+spec/sample_app/db/*.sqlite3
+spec/sample_app/db/*.sqlite3-journal
+spec/sample_app/log/*.log
+spec/sample_app/tmp/
